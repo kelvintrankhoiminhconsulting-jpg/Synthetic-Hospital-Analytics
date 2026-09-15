@@ -16,7 +16,7 @@ The goal of the project was to practice an end-to-end data analytics workflow, i
 
 ## Dataset
 
-The dataset contains five related tables:
+The dataset contains five related tables. The original source data is synthetic and was processed locally using Python and pandas. Cleaned datasets used for the Power BI analysis are included in this repository.
 
 - **Patients** - patient demographic and geographic information
 - **Encounters** - patient healthcare encounters and associated costs
