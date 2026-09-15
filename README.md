@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-This project analyzes a synthetic hospital and patient records dataset using Python and Power BI.
+This project analyzes a synthetic hospital and patient records dataset using Python, pandas, Power BI, and DAX.
 
 The goal of the project was to practice an end-to-end data analytics workflow, including data inspection, data quality validation, data cleaning, relational data modeling, and interactive dashboard development.
 
@@ -62,15 +62,24 @@ Examples of validation performed include:
 
 The cleaned datasets were imported into Power BI and connected using relational data modeling.
 
-### Dashboard Features
+### Dashboard Preview
 
-The dashboard includes:
+![Hospital Analytics Dashboard](screenshots/dashboard.png)
+
+### Key Performance Indicators
+
+The dashboard includes the following KPIs:
 
 - Total Patients
 - Total Encounters
 - Total Procedures
 - Average Encounter Cost
 - Total Claim Cost
+
+### Dashboard Visualizations
+
+The dashboard includes:
+
 - Patient encounters by patient
 - Patient gender distribution
 - Encounters over time
